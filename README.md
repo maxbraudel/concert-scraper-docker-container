@@ -109,4 +109,4 @@ docker push maxbraudel/concert-scraper:latest
 
 This plugin is released under the [MIT License](LICENSE).
 
-Copyright 2024 Max Braudel
+Copyright 2024 [Max Braudel](https://github.com/maxbraudel)
