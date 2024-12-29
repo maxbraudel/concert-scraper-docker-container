@@ -1,0 +1,20 @@
+{
+  "name": "concert-scraper",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["scraper", "concert", "tickets", "discord", "puppeteer"],
+  "author": "",
+  "license": "MIT",
+  "description": "A Node.js application that monitors concert ticket availability and sends notifications through Discord",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "puppeteer": "^22.13.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
